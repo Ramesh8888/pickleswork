@@ -175,7 +175,7 @@ const Home = () => {
       id: 1,
        title: 'veg-pickles',
       // description: 'Get the freshest pcikles product delivered to your doorstep',
-      image: 'public/images/Lemon.webp',
+      image: 'https://images.unsplash.com/photo-1664791461482-79f5deee490f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBpY2tsZXxlbnwwfHwwfHx8MA%3D%3D',
        buttonText: 'Shop Now',
       // buttonLink: '/products',
     },
